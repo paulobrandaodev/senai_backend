@@ -786,11 +786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\Desenvolvimento\\C#\\senai_backend\\projetos\\sVendas\\sVendas.csproj",
+      "projectUniqueName": "d:\\Documentos\\Desenvolvimento\\C#\\senai_backend\\projetos\\sVendas2\\sVendas.csproj",
       "projectName": "sVendas",
-      "projectPath": "D:\\Documentos\\Desenvolvimento\\C#\\senai_backend\\projetos\\sVendas\\sVendas.csproj",
+      "projectPath": "d:\\Documentos\\Desenvolvimento\\C#\\senai_backend\\projetos\\sVendas2\\sVendas.csproj",
       "packagesPath": "C:\\Users\\Constantine\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\Desenvolvimento\\C#\\senai_backend\\projetos\\sVendas\\obj\\",
+      "outputPath": "d:\\Documentos\\Desenvolvimento\\C#\\senai_backend\\projetos\\sVendas2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

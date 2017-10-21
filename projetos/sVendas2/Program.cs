@@ -80,11 +80,11 @@ namespace sVendas
 
                         Console.WriteLine("Digite o código do produto:");
                         string codigo = Console.ReadLine();
-                        Console.WriteLine("Digite o nome do produto");
+                        Console.WriteLine("Digite o nome do produto: ");
                         string produto = Console.ReadLine();
-                        Console.WriteLine("Digite a descrição do produto");
+                        Console.WriteLine("Digite a descrição do produto: ");
                         string descricao = Console.ReadLine().ToLower();
-                        Console.WriteLine("Digite o preço do produto");
+                        Console.WriteLine("Digite o preço do produto: ");
                         string preco = Console.ReadLine().ToLower();
                         if (cadProduto.Exists)
                         {
