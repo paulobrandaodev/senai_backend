@@ -1,0 +1,10 @@
+C:\Users\FIC\desconto\bin\Debug\netcoreapp2.0\desconto.deps.json
+C:\Users\FIC\desconto\bin\Debug\netcoreapp2.0\desconto.runtimeconfig.json
+C:\Users\FIC\desconto\bin\Debug\netcoreapp2.0\desconto.runtimeconfig.dev.json
+C:\Users\FIC\desconto\bin\Debug\netcoreapp2.0\desconto.dll
+C:\Users\FIC\desconto\bin\Debug\netcoreapp2.0\desconto.pdb
+C:\Users\FIC\desconto\obj\Debug\netcoreapp2.0\desconto.csproj.CoreCompileInputs.cache
+C:\Users\FIC\desconto\obj\Debug\netcoreapp2.0\desconto.AssemblyInfoInputs.cache
+C:\Users\FIC\desconto\obj\Debug\netcoreapp2.0\desconto.AssemblyInfo.cs
+C:\Users\FIC\desconto\obj\Debug\netcoreapp2.0\desconto.dll
+C:\Users\FIC\desconto\obj\Debug\netcoreapp2.0\desconto.pdb

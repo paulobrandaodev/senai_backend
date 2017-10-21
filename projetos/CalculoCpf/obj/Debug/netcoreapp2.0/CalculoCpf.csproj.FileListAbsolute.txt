@@ -1,0 +1,10 @@
+C:\Users\39554884893\projetos\CalculoCpf\bin\Debug\netcoreapp2.0\CalculoCpf.deps.json
+C:\Users\39554884893\projetos\CalculoCpf\bin\Debug\netcoreapp2.0\CalculoCpf.runtimeconfig.json
+C:\Users\39554884893\projetos\CalculoCpf\bin\Debug\netcoreapp2.0\CalculoCpf.runtimeconfig.dev.json
+C:\Users\39554884893\projetos\CalculoCpf\bin\Debug\netcoreapp2.0\CalculoCpf.dll
+C:\Users\39554884893\projetos\CalculoCpf\bin\Debug\netcoreapp2.0\CalculoCpf.pdb
+C:\Users\39554884893\projetos\CalculoCpf\obj\Debug\netcoreapp2.0\CalculoCpf.csproj.CoreCompileInputs.cache
+C:\Users\39554884893\projetos\CalculoCpf\obj\Debug\netcoreapp2.0\CalculoCpf.AssemblyInfoInputs.cache
+C:\Users\39554884893\projetos\CalculoCpf\obj\Debug\netcoreapp2.0\CalculoCpf.AssemblyInfo.cs
+C:\Users\39554884893\projetos\CalculoCpf\obj\Debug\netcoreapp2.0\CalculoCpf.dll
+C:\Users\39554884893\projetos\CalculoCpf\obj\Debug\netcoreapp2.0\CalculoCpf.pdb

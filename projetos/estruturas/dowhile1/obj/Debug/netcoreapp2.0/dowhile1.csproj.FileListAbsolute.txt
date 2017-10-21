@@ -1,0 +1,10 @@
+C:\Users\FIC\estruturas\dowhile1\bin\Debug\netcoreapp2.0\dowhile1.deps.json
+C:\Users\FIC\estruturas\dowhile1\bin\Debug\netcoreapp2.0\dowhile1.runtimeconfig.json
+C:\Users\FIC\estruturas\dowhile1\bin\Debug\netcoreapp2.0\dowhile1.runtimeconfig.dev.json
+C:\Users\FIC\estruturas\dowhile1\bin\Debug\netcoreapp2.0\dowhile1.dll
+C:\Users\FIC\estruturas\dowhile1\bin\Debug\netcoreapp2.0\dowhile1.pdb
+C:\Users\FIC\estruturas\dowhile1\obj\Debug\netcoreapp2.0\dowhile1.csproj.CoreCompileInputs.cache
+C:\Users\FIC\estruturas\dowhile1\obj\Debug\netcoreapp2.0\dowhile1.AssemblyInfoInputs.cache
+C:\Users\FIC\estruturas\dowhile1\obj\Debug\netcoreapp2.0\dowhile1.AssemblyInfo.cs
+C:\Users\FIC\estruturas\dowhile1\obj\Debug\netcoreapp2.0\dowhile1.dll
+C:\Users\FIC\estruturas\dowhile1\obj\Debug\netcoreapp2.0\dowhile1.pdb

@@ -1,0 +1,10 @@
+C:\Users\FIC\estruturas\for1\bin\Debug\netcoreapp2.0\for1.deps.json
+C:\Users\FIC\estruturas\for1\bin\Debug\netcoreapp2.0\for1.runtimeconfig.json
+C:\Users\FIC\estruturas\for1\bin\Debug\netcoreapp2.0\for1.runtimeconfig.dev.json
+C:\Users\FIC\estruturas\for1\bin\Debug\netcoreapp2.0\for1.dll
+C:\Users\FIC\estruturas\for1\bin\Debug\netcoreapp2.0\for1.pdb
+C:\Users\FIC\estruturas\for1\obj\Debug\netcoreapp2.0\for1.csproj.CoreCompileInputs.cache
+C:\Users\FIC\estruturas\for1\obj\Debug\netcoreapp2.0\for1.AssemblyInfoInputs.cache
+C:\Users\FIC\estruturas\for1\obj\Debug\netcoreapp2.0\for1.AssemblyInfo.cs
+C:\Users\FIC\estruturas\for1\obj\Debug\netcoreapp2.0\for1.dll
+C:\Users\FIC\estruturas\for1\obj\Debug\netcoreapp2.0\for1.pdb

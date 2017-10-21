@@ -1,0 +1,10 @@
+C:\Users\FIC\arquivos\bin\Debug\netcoreapp2.0\arquivos.deps.json
+C:\Users\FIC\arquivos\bin\Debug\netcoreapp2.0\arquivos.runtimeconfig.json
+C:\Users\FIC\arquivos\bin\Debug\netcoreapp2.0\arquivos.runtimeconfig.dev.json
+C:\Users\FIC\arquivos\bin\Debug\netcoreapp2.0\arquivos.dll
+C:\Users\FIC\arquivos\bin\Debug\netcoreapp2.0\arquivos.pdb
+C:\Users\FIC\arquivos\obj\Debug\netcoreapp2.0\arquivos.csproj.CoreCompileInputs.cache
+C:\Users\FIC\arquivos\obj\Debug\netcoreapp2.0\arquivos.AssemblyInfoInputs.cache
+C:\Users\FIC\arquivos\obj\Debug\netcoreapp2.0\arquivos.AssemblyInfo.cs
+C:\Users\FIC\arquivos\obj\Debug\netcoreapp2.0\arquivos.dll
+C:\Users\FIC\arquivos\obj\Debug\netcoreapp2.0\arquivos.pdb

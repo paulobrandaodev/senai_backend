@@ -1,0 +1,10 @@
+C:\Users\FIC\desvio\bin\Debug\netcoreapp2.0\desvio.deps.json
+C:\Users\FIC\desvio\bin\Debug\netcoreapp2.0\desvio.runtimeconfig.json
+C:\Users\FIC\desvio\bin\Debug\netcoreapp2.0\desvio.runtimeconfig.dev.json
+C:\Users\FIC\desvio\bin\Debug\netcoreapp2.0\desvio.dll
+C:\Users\FIC\desvio\bin\Debug\netcoreapp2.0\desvio.pdb
+C:\Users\FIC\desvio\obj\Debug\netcoreapp2.0\desvio.csproj.CoreCompileInputs.cache
+C:\Users\FIC\desvio\obj\Debug\netcoreapp2.0\desvio.AssemblyInfoInputs.cache
+C:\Users\FIC\desvio\obj\Debug\netcoreapp2.0\desvio.AssemblyInfo.cs
+C:\Users\FIC\desvio\obj\Debug\netcoreapp2.0\desvio.dll
+C:\Users\FIC\desvio\obj\Debug\netcoreapp2.0\desvio.pdb

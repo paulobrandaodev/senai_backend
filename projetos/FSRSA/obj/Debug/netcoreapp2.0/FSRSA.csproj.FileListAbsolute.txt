@@ -1,0 +1,10 @@
+C:\Users\39554884893\projetos\FSRSA\bin\Debug\netcoreapp2.0\FSRSA.deps.json
+C:\Users\39554884893\projetos\FSRSA\bin\Debug\netcoreapp2.0\FSRSA.runtimeconfig.json
+C:\Users\39554884893\projetos\FSRSA\bin\Debug\netcoreapp2.0\FSRSA.runtimeconfig.dev.json
+C:\Users\39554884893\projetos\FSRSA\bin\Debug\netcoreapp2.0\FSRSA.dll
+C:\Users\39554884893\projetos\FSRSA\bin\Debug\netcoreapp2.0\FSRSA.pdb
+C:\Users\39554884893\projetos\FSRSA\obj\Debug\netcoreapp2.0\FSRSA.csproj.CoreCompileInputs.cache
+C:\Users\39554884893\projetos\FSRSA\obj\Debug\netcoreapp2.0\FSRSA.AssemblyInfoInputs.cache
+C:\Users\39554884893\projetos\FSRSA\obj\Debug\netcoreapp2.0\FSRSA.AssemblyInfo.cs
+C:\Users\39554884893\projetos\FSRSA\obj\Debug\netcoreapp2.0\FSRSA.dll
+C:\Users\39554884893\projetos\FSRSA\obj\Debug\netcoreapp2.0\FSRSA.pdb

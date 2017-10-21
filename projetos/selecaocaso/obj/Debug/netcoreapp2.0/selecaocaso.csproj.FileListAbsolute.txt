@@ -1,0 +1,10 @@
+C:\Users\FIC\selecaocaso\bin\Debug\netcoreapp2.0\selecaocaso.deps.json
+C:\Users\FIC\selecaocaso\bin\Debug\netcoreapp2.0\selecaocaso.runtimeconfig.json
+C:\Users\FIC\selecaocaso\bin\Debug\netcoreapp2.0\selecaocaso.runtimeconfig.dev.json
+C:\Users\FIC\selecaocaso\bin\Debug\netcoreapp2.0\selecaocaso.dll
+C:\Users\FIC\selecaocaso\bin\Debug\netcoreapp2.0\selecaocaso.pdb
+C:\Users\FIC\selecaocaso\obj\Debug\netcoreapp2.0\selecaocaso.csproj.CoreCompileInputs.cache
+C:\Users\FIC\selecaocaso\obj\Debug\netcoreapp2.0\selecaocaso.AssemblyInfoInputs.cache
+C:\Users\FIC\selecaocaso\obj\Debug\netcoreapp2.0\selecaocaso.AssemblyInfo.cs
+C:\Users\FIC\selecaocaso\obj\Debug\netcoreapp2.0\selecaocaso.dll
+C:\Users\FIC\selecaocaso\obj\Debug\netcoreapp2.0\selecaocaso.pdb

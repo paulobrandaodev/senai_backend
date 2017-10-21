@@ -1,0 +1,10 @@
+C:\Users\FIC\rodizio\bin\Debug\netcoreapp2.0\rodizio.deps.json
+C:\Users\FIC\rodizio\bin\Debug\netcoreapp2.0\rodizio.runtimeconfig.json
+C:\Users\FIC\rodizio\bin\Debug\netcoreapp2.0\rodizio.runtimeconfig.dev.json
+C:\Users\FIC\rodizio\bin\Debug\netcoreapp2.0\rodizio.dll
+C:\Users\FIC\rodizio\bin\Debug\netcoreapp2.0\rodizio.pdb
+C:\Users\FIC\rodizio\obj\Debug\netcoreapp2.0\rodizio.csproj.CoreCompileInputs.cache
+C:\Users\FIC\rodizio\obj\Debug\netcoreapp2.0\rodizio.AssemblyInfoInputs.cache
+C:\Users\FIC\rodizio\obj\Debug\netcoreapp2.0\rodizio.AssemblyInfo.cs
+C:\Users\FIC\rodizio\obj\Debug\netcoreapp2.0\rodizio.dll
+C:\Users\FIC\rodizio\obj\Debug\netcoreapp2.0\rodizio.pdb

@@ -1,0 +1,10 @@
+C:\Users\FIC\cargos\bin\Debug\netcoreapp2.0\cargos.deps.json
+C:\Users\FIC\cargos\bin\Debug\netcoreapp2.0\cargos.runtimeconfig.json
+C:\Users\FIC\cargos\bin\Debug\netcoreapp2.0\cargos.runtimeconfig.dev.json
+C:\Users\FIC\cargos\bin\Debug\netcoreapp2.0\cargos.dll
+C:\Users\FIC\cargos\bin\Debug\netcoreapp2.0\cargos.pdb
+C:\Users\FIC\cargos\obj\Debug\netcoreapp2.0\cargos.csproj.CoreCompileInputs.cache
+C:\Users\FIC\cargos\obj\Debug\netcoreapp2.0\cargos.AssemblyInfoInputs.cache
+C:\Users\FIC\cargos\obj\Debug\netcoreapp2.0\cargos.AssemblyInfo.cs
+C:\Users\FIC\cargos\obj\Debug\netcoreapp2.0\cargos.dll
+C:\Users\FIC\cargos\obj\Debug\netcoreapp2.0\cargos.pdb

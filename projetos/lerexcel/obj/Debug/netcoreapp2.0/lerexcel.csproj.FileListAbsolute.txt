@@ -1,0 +1,10 @@
+C:\Users\39554884893\projetos\lerexcel\bin\Debug\netcoreapp2.0\lerexcel.deps.json
+C:\Users\39554884893\projetos\lerexcel\bin\Debug\netcoreapp2.0\lerexcel.runtimeconfig.json
+C:\Users\39554884893\projetos\lerexcel\bin\Debug\netcoreapp2.0\lerexcel.runtimeconfig.dev.json
+C:\Users\39554884893\projetos\lerexcel\bin\Debug\netcoreapp2.0\lerexcel.dll
+C:\Users\39554884893\projetos\lerexcel\bin\Debug\netcoreapp2.0\lerexcel.pdb
+C:\Users\39554884893\projetos\lerexcel\obj\Debug\netcoreapp2.0\lerexcel.csproj.CoreCompileInputs.cache
+C:\Users\39554884893\projetos\lerexcel\obj\Debug\netcoreapp2.0\lerexcel.AssemblyInfoInputs.cache
+C:\Users\39554884893\projetos\lerexcel\obj\Debug\netcoreapp2.0\lerexcel.AssemblyInfo.cs
+C:\Users\39554884893\projetos\lerexcel\obj\Debug\netcoreapp2.0\lerexcel.dll
+C:\Users\39554884893\projetos\lerexcel\obj\Debug\netcoreapp2.0\lerexcel.pdb

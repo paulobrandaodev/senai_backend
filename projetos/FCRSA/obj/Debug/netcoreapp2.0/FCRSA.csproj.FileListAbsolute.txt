@@ -1,0 +1,10 @@
+C:\Users\39554884893\projetos\FCRSA\bin\Debug\netcoreapp2.0\FCRSA.deps.json
+C:\Users\39554884893\projetos\FCRSA\bin\Debug\netcoreapp2.0\FCRSA.runtimeconfig.json
+C:\Users\39554884893\projetos\FCRSA\bin\Debug\netcoreapp2.0\FCRSA.runtimeconfig.dev.json
+C:\Users\39554884893\projetos\FCRSA\bin\Debug\netcoreapp2.0\FCRSA.dll
+C:\Users\39554884893\projetos\FCRSA\bin\Debug\netcoreapp2.0\FCRSA.pdb
+C:\Users\39554884893\projetos\FCRSA\obj\Debug\netcoreapp2.0\FCRSA.csproj.CoreCompileInputs.cache
+C:\Users\39554884893\projetos\FCRSA\obj\Debug\netcoreapp2.0\FCRSA.AssemblyInfoInputs.cache
+C:\Users\39554884893\projetos\FCRSA\obj\Debug\netcoreapp2.0\FCRSA.AssemblyInfo.cs
+C:\Users\39554884893\projetos\FCRSA\obj\Debug\netcoreapp2.0\FCRSA.dll
+C:\Users\39554884893\projetos\FCRSA\obj\Debug\netcoreapp2.0\FCRSA.pdb

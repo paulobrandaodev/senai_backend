@@ -1,0 +1,10 @@
+C:\Users\FIC\Array1\bin\Debug\netcoreapp2.0\Array1.deps.json
+C:\Users\FIC\Array1\bin\Debug\netcoreapp2.0\Array1.runtimeconfig.json
+C:\Users\FIC\Array1\bin\Debug\netcoreapp2.0\Array1.runtimeconfig.dev.json
+C:\Users\FIC\Array1\bin\Debug\netcoreapp2.0\Array1.dll
+C:\Users\FIC\Array1\bin\Debug\netcoreapp2.0\Array1.pdb
+C:\Users\FIC\Array1\obj\Debug\netcoreapp2.0\Array1.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Array1\obj\Debug\netcoreapp2.0\Array1.AssemblyInfoInputs.cache
+C:\Users\FIC\Array1\obj\Debug\netcoreapp2.0\Array1.AssemblyInfo.cs
+C:\Users\FIC\Array1\obj\Debug\netcoreapp2.0\Array1.dll
+C:\Users\FIC\Array1\obj\Debug\netcoreapp2.0\Array1.pdb

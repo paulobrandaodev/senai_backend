@@ -1,0 +1,10 @@
+C:\Users\FIC\estruturas\while1\bin\Debug\netcoreapp2.0\while1.deps.json
+C:\Users\FIC\estruturas\while1\bin\Debug\netcoreapp2.0\while1.runtimeconfig.json
+C:\Users\FIC\estruturas\while1\bin\Debug\netcoreapp2.0\while1.runtimeconfig.dev.json
+C:\Users\FIC\estruturas\while1\bin\Debug\netcoreapp2.0\while1.dll
+C:\Users\FIC\estruturas\while1\bin\Debug\netcoreapp2.0\while1.pdb
+C:\Users\FIC\estruturas\while1\obj\Debug\netcoreapp2.0\while1.csproj.CoreCompileInputs.cache
+C:\Users\FIC\estruturas\while1\obj\Debug\netcoreapp2.0\while1.AssemblyInfoInputs.cache
+C:\Users\FIC\estruturas\while1\obj\Debug\netcoreapp2.0\while1.AssemblyInfo.cs
+C:\Users\FIC\estruturas\while1\obj\Debug\netcoreapp2.0\while1.dll
+C:\Users\FIC\estruturas\while1\obj\Debug\netcoreapp2.0\while1.pdb
